@@ -45,3 +45,4 @@
 
     GitHub地址：https://github.com/susonglin/springboot_hbase_kafka
     码云地址：https://gitee.com/susonglin/springboot_hbase_kafka
+    
